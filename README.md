@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Takdish
+- Author: @Takdish
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on Github
-- 📫 Contact me on Instagram @mr_takdish_
+- 📫 Instagram: @mr_takdish_
 - 😄 Pronouns: He
 - ⚡ Fun fact: Gamer
 
