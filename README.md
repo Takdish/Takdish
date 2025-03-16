@@ -1,6 +1,6 @@
 - Author: @Takdish
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 Learning c++,Java DSA
 - 📫 Instagram: @mr_takdish_
 - 😄 Pronouns: He
 - ⚡ Fun fact: Gamer
